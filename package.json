@@ -1,0 +1,19 @@
+{
+  "name": "front-back-end-basic",
+  "version": "1.0.0",
+  "description": "Criar aplicação básica para aprimorar minhas técnicas com HTML, JSON requests, entre outros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasmanoel/front-back-end-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasmanoel/front-back-end-basic/issues"
+  },
+  "homepage": "https://github.com/matiasmanoel/front-back-end-basic#readme"
+}
